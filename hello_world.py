@@ -1,5 +1,5 @@
 #My first file tracked by Git
-# Author: JÚLIA
+# Author: JÚLIA & PAULA
 def greet(name):
     """Return a welcome message for the given name."""
     return f"Hello, {name}! Welcome to Git."
